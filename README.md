@@ -4,7 +4,7 @@
 
 
 > `Q:` Which model has a lower loss? \
-> `A:` LSTM with Closing prices (0.024818573147058487) vs FNG (0.1098)  \
+> `A:` LSTM with Closing prices (0.024818573147058487) had a lower loss vs (FNG 0.1098)  \
 > `Q:` Which model tracks the actual values better over time? \
 > `A:` LSTM with Closing prices \
 > `Q:` Which window size works best for the model? \
